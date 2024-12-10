@@ -3,7 +3,7 @@
 let secretNum = Math.floor((Math.random() * 20) + 1);
 let score = 20;
 let highScore = 0 ; 
-console.log(secretNum);
+
 
 // elements
 
@@ -16,7 +16,7 @@ const highScoreLabel = document.querySelector(".highscore");
 const scoreLabel = document.querySelector(".score");
 const againButton = document.querySelector(".again");
 
-console.log("hi")
+
 
 
 
